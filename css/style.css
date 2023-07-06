@@ -11,10 +11,10 @@ body {
 
 .showcase {
 	position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 70vw;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 70vw;
 }
 
 nav ul {
@@ -25,7 +25,7 @@ nav ul {
 	list-style: none;
 }
 
-nav li{
+nav li {
 	flex: 0 0 auto;
 }
 nav a {
