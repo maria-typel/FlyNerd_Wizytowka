@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: 'Ralway', sans-serif;
+	background-color: #f8e2ef;
+	text-align: center;
+}
+
+.nav {
+	color: #368b9b;
+	font-weight: 700;
+	margin: 2em 5em 1em;
+	line-height: 1.34808109em;
+}
+
+.center {
+	border: 2px solid #d45d84;
+	margin: 2em;
+}
+.center h1 {
+	color: #d45d84;
+	font-weight: 700;
+	padding: 30px 0px 30px 0px;
+}
+
+.center p {
+	color: #231f20;
+	font-weight: 100;
+	padding: 0 30px 30px 30px;
+}
+
+img {
+	width: 50%;
+	height: 50%;
+	padding: 30px;
+}
+
+.signature {
+	margin: 2em 5em 1em;
+}
